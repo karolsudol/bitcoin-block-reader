@@ -2,9 +2,9 @@
 
 ## build and run
 
-`docker build . -t rust-docker:01`
+`docker build . -t bitcoin-block-reader:01`
 
-`docker run -t rust-docker:01`
+`docker run -t bitcoin-block-reader:01`
 
 <br/>
 <p align="center">
